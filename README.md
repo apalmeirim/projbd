@@ -1,2 +1,3 @@
+Condominiun Management (Gestão de Condomínios).
 Project developed for Database Systems (Base de Dados ou BD).
-Project statement is in attached PDF file.
+Project statement is not available.
